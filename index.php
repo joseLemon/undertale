@@ -9,6 +9,7 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <title>undertale</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 </head>
 <body>
 <div class="container">
